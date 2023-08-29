@@ -1,3 +1,2 @@
-
-secret:
-  kofic-key: ${KOFIC_KEY}
+server:
+  port: 9999
